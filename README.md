@@ -1,2 +1,2 @@
-Hello!
+Hi there!
 My name is Miltos and currently i am learning coding...
